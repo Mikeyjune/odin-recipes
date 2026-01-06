@@ -1,1 +1,1 @@
-<!-- will summarize what was done later when project is complete -->
+Simple webpage demonstrating how to cook Orange Chicken w/ Rice. I was planning on creating a few extra pages of recipes but decided on just one for now because i was feeling lazy if im being honest. Overall I learned some useful formatting, as well as how to commit via the VSCode terminal.
